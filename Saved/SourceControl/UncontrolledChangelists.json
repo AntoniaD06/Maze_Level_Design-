@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Stealth/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Maps/MainMap.umap",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/FantasyAssets_-_Vol3__Trees_and_Bushes/Bush3_Bake3_baked_001.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/StarterContent/Props/Materials/M_Bush.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Stealth/EnemiesAI/EnemiesAI_Knife/EnemyCharacterKnife_BP.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys_texture_0.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys_texture_1.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys_texture_2.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys_texture_3.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys_texture_4.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/cc0_keys_texture_5.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/Key1.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/Key2.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/Key_3.uasset",
+				"C:/Users/ad1500/OneDrive - Anglia Ruskin University/Documents/AD1500/Level Design and Rapid Game Prototyping/Unreal Projects/Maze_Level_Design_NewAtmosphere/Content/Fab/CC0_-_Keys/KeyRing.uasset"
+			]
+		}
+	]
+}
